@@ -1,0 +1,44 @@
+.check{
+	width:100%;
+	border: 1px solid black;
+}
+.first{
+	border: 1px solid black;
+	padding: 15px;
+}
+.second{
+	border: 1px solid black;
+	display:flex;
+}
+.second_first{
+	border: 1px solid black;
+	flex:20%;
+	padding: 25px;
+}
+.second_second{
+	border: 1px solid black;
+	padding: 25px;
+	flex:70%;
+	display: inline-block;
+}
+.fileupload{
+	cursor: pointer;
+	display:inline-block;
+	border: 1px solid black;
+	border-radius: 2px;
+	padding: 3px;
+	font-size: 12px;
+	background: lightgray;
+}
+.filebtn{
+	margin: 10px;
+}
+.fileupl{
+	position: absolute;
+}
+.add{
+	cursor: pointer;
+}
+.anchor{
+	text-decoration: none;
+}
